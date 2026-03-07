@@ -90,9 +90,9 @@ LoRA adapters can be merged back into the base model, creating a standalone, fin
 ## Files Structure
 
 ```
-LoRA_TinyLlama_Dolly/
+LoRA-SFT/
 ├── README.md                           # This project documentation
-├── notebook.ipynb                      # Complete Jupyter notebook with analysis
+├── LoRA_Notebook.ipynb                      # Complete Jupyter notebook with analysis
 ├── data/
 │   └── dolly_train.json                # Subset of Dolly-15k dataset
 ├── lora-adapter/                       # Saved LoRA adapter weights and config
