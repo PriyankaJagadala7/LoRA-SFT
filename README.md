@@ -113,7 +113,7 @@ LoRA-SFT/
     ```bash
     pip install torch transformers datasets peft trl
     ```
-3.  **Open the Jupyter notebook** (e.g., `(https://colab.research.google.com/drive/1DE_UDqMqIgGkAIIFHhhOGOaoewInUKa7#scrollTo=6482d33b)`).
+3.  **Open the Jupyter notebook** 
 4.  **Run the cells sequentially** to execute the data preparation, LoRA configuration, training, model merging, and inference steps.
 
 ## Results Summary
