@@ -1,7 +1,7 @@
 # LoRA Fine-tuning of TinyLlama-1.1B on Databricks Dolly-15k
 
 ## Overview
-This project focuses on fine-tuning the **TinyLlama/TinyLlama-1.1B-Chat-v1.0** model using **Low-Rank Adaptation (LoRA)** on a subset of the **Databricks Dolly-15k dataset**. The goal is to efficiently adapt a smaller language model to follow instructions, leveraging parameter-efficient fine-tuning techniques to achieve specialized performance without extensive computational resources.
+This project focuses on fine-tuning the **TinyLlama/TinyLlama-1.1B-Chat-v1.0** model using **Low-Rank Adaptation (LoRA)** on a subset of the **Databricks Dolly-15k dataset**. The goal is to efficiently adapt a smaller language model to follow instructions, leveraging parameter-efficient fine-tuning techniques to achieve specialized performance without extensive computational resources. https://colab.research.google.com/drive/1DE_UDqMqIgGkAIIFHhhOGOaoewInUKa7
 
 ## Key Findings
 
